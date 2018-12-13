@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="CS">Computer Science</string>
+    <string name="bt1">Set Text View</string>
+    <string name="input_name">กรอกชื่อ-นามสกุล</string>
+    <string name="input_height">กรอกส่วนสูง</string>
+    <string name="input_weight">กรอกน้ำหนัก</string>
+    <string name="input_phone">กรอกหมายเลขโทรศัพท์</string>
+    <string name="profile">ประวัติส่วนตัว</string>
+    <string name="footballteam">ทีมฟุตบอลที่ชอบ</string>
+</resources>
