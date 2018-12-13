@@ -193,6 +193,7 @@
                                 android:layout_width="50dp"
                                 android:layout_height="match_parent"
                                 android:layout_weight="1"
+                                android:onClick="showAlertDialogPopup2"
                                 android:scaleType="fitCenter"
                                 app:srcCompat="@drawable/person1" />
 
@@ -202,12 +203,13 @@
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
                                 android:drawableLeft="@android:drawable/btn_star_big_on"
+                                android:onClick="showAlertDialogPopup3"
                                 android:text="@string/profile" />
 
                         </LinearLayout>
 
                         <TextView
-                            android:id="@+id/textView4"
+                            android:id="@+id/tvProfile"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:hint="@string/profile" />
